@@ -6,5 +6,4 @@ PRODUCT_SOONG_NAMESPACES += \
     vendor/xiaomi/landtoni-common
 
 PRODUCT_COPY_FILES += \
-    vendor/xiaomi/landtoni-common/proprietary/vendor/lib64/hw/consumerir.msm8937.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/consumerir.msm8937.so \
-    vendor/xiaomi/landtoni-common/proprietary/vendor/bin/hvdcp_opti:$(TARGET_COPY_OUT_VENDOR)/bin/hvdcp_opti
+    vendor/xiaomi/landtoni-common/proprietary/vendor/lib64/hw/consumerir.msm8937.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/consumerir.msm8937.so
